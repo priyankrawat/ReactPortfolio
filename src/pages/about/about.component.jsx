@@ -21,7 +21,7 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
-                Hi there! I am Priyank Rawat  a passionate Web & Mobile App Developer with React.js, React Native, Express.js, Node.js, PHP as some of my tech stack.
+                Hi there! I am Priyank Rawat, a passionate Web & Mobile App Developer with React.js, React Native, Express.js, Node.js, PHP as some of my tech stack.
                 <br />
                 I'm a final year student pursuing my B.Tech in Information Technology from Dr. Akhilesh Das Gupta Institute of Technology and Management (Affiliated to Guru Gobind Singh Indraprastha University).
                 <br />
