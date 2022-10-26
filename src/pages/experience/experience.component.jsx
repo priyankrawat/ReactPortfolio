@@ -29,7 +29,7 @@ const Experience = () => {
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li>Working with a <strong>varied client base</strong> to produce websites using React.js, Node.js, PHP, MySQL.</li>
-                      <li>Maintained a <strong>100% Job success score </strong> on the platform.</li>
+                      <li>Maintained a <strong>100% Job success score </strong> on the platform and earned a <a href= "https://support.upwork.com/hc/en-us/articles/360049702614-Upwork-s-Talent-Badges#:~:text=To%20earn%20a%20Top%20Rated,3%25%20of%20performers%20on%20Upwork.">"Top Rated Plus" </a> badge.</li>
                     </ul>
                   </Card.Text>
                 </div>
