@@ -1,1 +1,1 @@
-# Portfolio made with React.js
+# Portfolio made with React.js.
