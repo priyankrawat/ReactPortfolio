@@ -9,6 +9,42 @@ const Experience = () => {
   return (
     <div id="experience">
       <h1 className="pt-3 text-center font-details-b pb-3">EXPERIENCE</h1>
+
+      <Jumbotron className="jumbo-style">
+        <Container>
+          <Tilt options={{ max: 25 }}>
+            <Card>
+              <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
+              <h1> <strong>Woven Inc.</strong></h1>
+              </Card.Header>
+              <Card.Body className="d-flex justify-content-center flex-column">
+                <div>
+                  <Card.Title className="text-center">Software Engineer</Card.Title>
+                </div>
+                <div>
+                  <Card.Text className="text-center style">
+                    <strong>Technology:</strong> React JS, Javascript, Typescript.
+                    <br />
+                    <strong>Duration:</strong> September 2021 - Present
+                    <br/><br/>
+                    <strong> Description </strong>
+                    <ul className="text-left">
+                      <li>Implemented TypeScript and ESLint on the React codebase, improving the developer experience by cutting ambiguity and catching errors before code is deployed to production.</li>
+                      <li>Implemented designs for the new free trial product, reducing the cost of acquisition for new customers.</li>
+                      <li>Worked with other engineers and product owners to scope out projects and design technical requirements of new products.</li>
+                      <li>Maintained and created scenarios used in Woven's technical assessments, ensuring their accuracy and relevance.</li>
+                      <li>Communicated with customers and internal stakeholders to gather feedback and incorporate it into the scenario development process, ensuring that assessments accurately reflect industry standards and best practices</li>
+                    </ul>
+                  </Card.Text>
+                </div>
+              </Card.Body>
+            </Card>
+          </Tilt>
+        </Container>
+      </Jumbotron>
+
+
+      
       <Jumbotron className="jumbo-style">
         <Container>
           <Tilt options={{ max: 25 }}>
@@ -24,7 +60,7 @@ const Experience = () => {
                   <Card.Text className="text-center style">
                     <strong>Technology:</strong> React JS, Node JS, React Native, PHP
                     <br />
-                    <strong>Duration:</strong> September 2019 - Present
+                    <strong>Duration:</strong> September 2019 - May 2021
                     <br/><br/>
                     <strong> Description </strong>
                     <ul className="text-left">
