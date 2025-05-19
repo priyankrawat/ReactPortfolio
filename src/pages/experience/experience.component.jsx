@@ -15,25 +15,29 @@ const Experience = () => {
           <Tilt options={{ max: 25 }}>
             <Card>
               <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
-              <h1> <strong>Woven Inc.</strong></h1>
+              <h1> <strong>Woven</strong></h1>
               </Card.Header>
               <Card.Body className="d-flex justify-content-center flex-column">
                 <div>
-                  <Card.Title className="text-center">Software Engineer</Card.Title>
+                  <Card.Title className="text-center">Full-Stack Software Engineer</Card.Title>
                 </div>
                 <div>
                   <Card.Text className="text-center style">
                     <strong>Technology:</strong> React JS, Javascript, Typescript.
                     <br />
-                    <strong>Duration:</strong> September 2021 - Present
+                    <strong>Duration:</strong> May 2021 - Present
                     <br/><br/>
                     <strong> Description </strong>
                     <ul className="text-left">
-                      <li>Implemented TypeScript and ESLint on the React codebase, improving the developer experience by cutting ambiguity and catching errors before code is deployed to production.</li>
-                      <li>Implemented designs for the new free trial product, reducing the cost of acquisition for new customers.</li>
-                      <li>Worked with other engineers and product owners to scope out projects and design technical requirements of new products.</li>
-                      <li>Maintained and created scenarios used in Woven's technical assessments, ensuring their accuracy and relevance.</li>
-                      <li>Communicated with customers and internal stakeholders to gather feedback and incorporate it into the scenario development process, ensuring that assessments accurately reflect industry standards and best practices</li>
+                      <li>Migrated legacy React class components to functional components using Hooks.</li>
+                      <li>Implemented a new free trial experience, decreasing CAC by 18% and increasing trial-to-signup conversion by 22%.</li>
+                      <li>Deployed a comprehensive error monitoring and alerting system using Rollbar and Slack integration, enabling real-time error tracking, automated alerts, and team-wide visibility.</li>
+                      <li>Built an AI-powered evaluation system using GPT-4 and custom LLMs, replacing manual screening workflows and enabling performance tracking through Metabase dashboards.</li>
+                      <li>Developed a robust candidate assessment platform processing 1000+ daily records with 99.9% uptime.</li>
+                      <li>Engineered real-time ATS integrations (Greenhouse & Ashby), automating over 1,000 daily candidate status syncs and reducing recruiter manual work, and improving team efficiency.</li>
+                      <li>Optimized system performance using Redis caching and query tuning, reducing response times by 25%.</li>
+                      <li>Designed and launched an automated scoring pipeline with scenario-specific logic and LLM-driven recommendations, improving accuracy and reviewer efficiency.</li>
+                      <li>Established Docker-based CI/CD pipelines and monitoring tools, reducing deployment time by 30%.</li>
                     </ul>
                   </Card.Text>
                 </div>
