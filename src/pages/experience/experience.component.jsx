@@ -34,7 +34,7 @@ const Experience = () => {
                       <li>Deployed a comprehensive error monitoring and alerting system using Rollbar and Slack integration, enabling real-time error tracking, automated alerts, and team-wide visibility.</li>
                       <li>Built an AI-powered evaluation system using GPT-4 and custom LLMs, replacing manual screening workflows and enabling performance tracking through Metabase dashboards.</li>
                       <li>Developed a robust candidate assessment platform processing 1000+ daily records with 99.9% uptime.</li>
-                      <li>Engineered real-time ATS integrations (Greenhouse & Ashby), automating over 1,000 daily candidate status syncs and reducing recruiter manual work, and improving team efficiency.</li>
+                      <li>Engineered real-time ATS integrations (Greenhouse & Ashby), automating over 1,000 daily candidate status syncs, reducing recruiter manual work, and improving team efficiency.</li>
                       <li>Optimized system performance using Redis caching and query tuning, reducing response times by 25%.</li>
                       <li>Designed and launched an automated scoring pipeline with scenario-specific logic and LLM-driven recommendations, improving accuracy and reviewer efficiency.</li>
                       <li>Established Docker-based CI/CD pipelines and monitoring tools, reducing deployment time by 30%.</li>
